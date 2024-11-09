@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Ultimate Python Course
 
 Welcome to [**The Ultimate Python Course!**](https://youtu.be/UrsmFxEIp5k)
@@ -119,3 +120,6 @@ Each chapter contains problem sets to test your understanding and to practice co
 2. **Navigate through the chapters** to find the relevant lessons and code examples.
 3. **Complete the problem sets** provided at the end of each chapter to solidify your understanding.
 4. **Work on the projects** to apply your knowledge in real-world scenarios.
+=======
+# Python-Notes
+>>>>>>> 6168180c7e8f73919a63000f368b06cb4c6286c7
